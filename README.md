@@ -11,7 +11,7 @@ To install and configure Git, perform local version control operations such as
 `init`, `add`, and `commit`, connect a local repository to a remote GitHub
 repository, and push/update code using Git commands.
 
-## Tools Used
+## Tools used 
 
 - Git
 - GitHub
